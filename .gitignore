@@ -1,0 +1,5 @@
+__pycache__/
+charts/
+agent_memory.json
+.env
+*.pyc
