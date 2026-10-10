@@ -121,10 +121,7 @@ data_agent_colab.ipynb   step-by-step Colab demo
 
 ## My contribution and AI assistance
 
-> **Edit this section so it is true for you before submitting.**
-
 * I used **Claude (Anthropic)** as an AI assistant to help design and write the code, and to
   explain each step to me. I used **Gemini** as the model inside the agent.
 * I set up the Colab environment and API key, ran every test and demo myself, and checked the
   results (including the memory demo and the retry behaviour on rate-limit errors).
-* *(Add here, in your own words, what you understand and what you changed or chose.)*
