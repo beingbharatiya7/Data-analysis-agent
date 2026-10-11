@@ -3,7 +3,7 @@
 An AI agent that takes **any tabular dataset (CSV / Excel)** and answers plain-English
 questions by **running real pandas analysis with its own tools**, not by guessing.
 It also has a **persistent memory** that remembers useful facts (definitions, corrections,
-preferences, named filters) across sessions and uses them in later answers.
+preferences, named filters) across sessions and uses them in later answers
 
 Submission for the BYTE society selection: *The Agentic Task [Basic]* (with the memory deep-dive).
 
