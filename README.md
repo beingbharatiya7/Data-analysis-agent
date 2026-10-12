@@ -119,6 +119,7 @@ data_agent_colab.ipynb   step-by-step Colab demo
   path to keep it).
 * The agent decides when to save a memory, so it can occasionally miss or over-save a note.
 * Chart type is chosen by the model; asking for a "distribution" may not always give a histogram.
+* On the hosted app,memory is shared by all the visitors and resets when the app restarts
 
 ## My contribution and AI assistance
 
